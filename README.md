@@ -1,6 +1,6 @@
-<div id="header" align="center">
+
   <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif)" width="100"/>
-</div>
+<img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="cplusplus" width="400" height="400"/>
 <h1 align="center">Hi 👋, I'm Muhammad Umer</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="cplusplus" width="400" height="400"/>
