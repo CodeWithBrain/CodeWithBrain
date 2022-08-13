@@ -1,7 +1,7 @@
 
-<div style="text-align:center;">
-<img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="cplusplus" width="5000" height="300"/>
-</div>
+<p align="center">
+  <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="cplusplus" width="500" height="300"/>
+</p>
 <h1 align="center">Hi 👋, I'm Muhammad Umer</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithbrain&label=Profile%20views&color=0e75b6&style=flat" alt="codewithbrain" /> </p>
