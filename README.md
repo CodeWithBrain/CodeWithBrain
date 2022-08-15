@@ -3,8 +3,6 @@
 <h1 align="left">Hi 👋, I'm Muhammad Umer</h1>
 <h3 align="left">A passionate full stack developer from Pakistan</h3>
 <p align="left">
-  ![avatar]([https://images.weserv.nl/?url=avatars.githubusercontent.com/u/65769327?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d])
-
   <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="cplusplus" width="200" height="200"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithbrain&label=Profile%20views&color=0e75b6&style=flat" alt="codewithbrain" /> </p>
