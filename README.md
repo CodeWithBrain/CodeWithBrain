@@ -1,7 +1,7 @@
 
 
 <h1 align="left">Hi 👋, I'm Muhammad Umer</h1>
-<h3 align="left">A passionate full stack developer from Pakistan</h3>
+<h3 align="left">A passionate Website developer from Pakistan</h3>
 <p align="left">
   <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="cplusplus" width="300" height="200"/>
 </p>
